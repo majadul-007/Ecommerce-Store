@@ -53,7 +53,7 @@ const router = createBrowserRouter([
         errorElement: <Error />,
       },
       {
-        path: '/adminPanel/customer',
+        path: '/adminpanel/customer',
         element: <Customer />,
         // loader: menuLoader,
         errorElement: <Error />,
