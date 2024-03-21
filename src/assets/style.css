@@ -1,0 +1,17 @@
+.product-panel{
+
+    border: 3px solid #F9CC15 !important;
+    border-radius: 20px 20px;
+    margin-bottom: 5px;
+    margin-top: 10px;
+    padding: 100px;
+}
+
+.a-panel{
+
+    border: 3px solid midnightblue !important;
+    border-radius: 20px 20px;
+    padding: 10px;
+
+    
+}
